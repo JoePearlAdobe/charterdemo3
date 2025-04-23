@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/charterdemo3/:/",
-    "/content/charterdemo3/metadata.json:/metadata.json",
-    "/content/charterdemo3/redirects.json:/redirects.json",
-    "/content/charterdemo3/configuration.json:/configuration.json"
+    "/content/cdemo3/:/",
+    "/content/cdemo3/metadata.json:/metadata.json",
+    "/content/cdemo3/redirects.json:/redirects.json",
+    "/content/cdemo3/configuration.json:/configuration.json"
   ],
   "includes": [
-    "/content/charterdemo3/"
+    "/content/cdemo3/"
   ]
 }
