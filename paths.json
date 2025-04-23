@@ -3,9 +3,9 @@
     "/content/charterdemo3/:/",
     "/content/charterdemo3/metadata.json:/metadata.json",
     "/content/charterdemo3/redirects.json:/redirects.json",
-    "/content/charterdemoconfiguration3.json:/configuration.json"
+    "/content/charterdemo3/configuration.json:/configuration.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/charterdemo3/"
   ]
 }
